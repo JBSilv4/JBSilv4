@@ -1,4 +1,4 @@
-### Olá!! Eu sou o z um Analista de Segurança da Informação
+### Olá!! Eu sou o JB$ um programador full-stack
 
 <div align="center">
 
