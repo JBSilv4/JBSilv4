@@ -31,7 +31,7 @@
 ----
 
 ### 🛠 Work Experience
-<i>Right now I'm studying for the Selective WorldSkills 2024.</i>
+<i>Right now I'm studying for the Selective National WorldSkills 2024.</i>
 
 ----
 ### 🚀 GitHub Stats
